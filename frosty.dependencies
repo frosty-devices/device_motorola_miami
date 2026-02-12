@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "frosty-devices/device_motorola_sm6375-common",
+    "target_path": "device/motorola/sm6375-common"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_motorola_miami",
+    "target_path": "vendor/motorola/miami",
+    "branch": "lineage-23.2"
+  }
+]
